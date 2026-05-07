@@ -9,7 +9,7 @@ The project compares the numerical stability and accuracy of both integrators by
 - Angular momentum conservation
 - Time-dependent stellar irradiation
 
-Results show that the RK4 method maintains a stable closed orbit with significantly improved conservation properties, while the FE method accumulates numerical error over time, producing nonphysical orbital expansion. [See paper]([https://github.com](https://github.com/madelinejmg/ASTR-UN3273/blob/main/FinalProject_ASTRUN3273.pdf))
+Results show that the RK4 method maintains a stable closed orbit with significantly improved conservation properties, while the FE method accumulates numerical error over time, producing nonphysical orbital expansion. See paper [here](https://github.com/madelinejmg/ASTR-UN3273/blob/main/FinalProject_ASTRUN3273.pdf).
 
 ## Requirements
 
